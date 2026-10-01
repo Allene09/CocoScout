@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+uploads/
+models/*.onnx
+database/*.sqlite
+database/*.db
+*.log
+.DS_Store
